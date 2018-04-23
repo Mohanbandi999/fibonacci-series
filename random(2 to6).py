@@ -1,3 +1,5 @@
+# random numbers from length 2 to 6 just give input like  2 ,3 ,5
+
 def rann(num):
     
     if num==2:
