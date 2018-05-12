@@ -1,0 +1,11 @@
+def amstrongnum(num):
+    gg=str(num)
+    t=0
+    for i in gg:
+        t+=int(i)**3
+    print t
+    
+    if t==num:
+        print'yes'
+    else:
+        print"no"
